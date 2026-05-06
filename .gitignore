@@ -13,3 +13,4 @@ Thumbs.db       # Windows
 
 output/
 *.csv
+/bin/
