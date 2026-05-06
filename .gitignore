@@ -17,6 +17,7 @@
 .vscode/        # VS Code
 .project        # Eclipse
 .classpath      # Eclipse
+.settings/      # Eclipse
 
 # OS clutter
 .DS_Store       # macOS
