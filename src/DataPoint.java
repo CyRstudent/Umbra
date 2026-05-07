@@ -1,21 +1,21 @@
 
 public class DataPoint {
 
-	private double Time;
-	private double Flux;
+	private double time;
+	private double flux;
 	
-	public DataPoint(double Time, double Flux) {
-		this.Time = Time;
-		this.Flux = Flux;
+	public DataPoint(double time, double flux) {
+		this.time = time;
+		this.flux = flux;
 	}
 	
 	public double getTime()
 	{
-		return Time;
+		return time;
 	}
 	
 	public double getFlux()
 	{
-		return Flux;
+		return flux;
 	}
 }
